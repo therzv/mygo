@@ -4,8 +4,8 @@ import (
 	"fmt"
 )
 
-func ShowHeadHunterCompany(n1, n2, n3, n4, n5 string) {
-	fmt.Println(n1, n2, n3, n4, n5)
+func ShowHeadHunterCompany(n1, n2, n3 string) {
+	fmt.Println(n1, n2, n3)
 }
 
 //func main() {
