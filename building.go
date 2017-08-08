@@ -3,6 +3,6 @@ package main
 import "github.com/therzv/mygo/floor"
 
 func main() {
-	floor.ShowAdultCompany("test")
+	floor.ShowAdultCompany("test", 50)
 
 }
