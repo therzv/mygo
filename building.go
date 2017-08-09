@@ -3,5 +3,5 @@ package main
 import "github.com/therzv/mygo/floor"
 
 func main() {
-	floor.ShowAdultCompany("test", "test", "test", "test", "test")
+	floor.ShowAdultCompany("test", 100)
 }
